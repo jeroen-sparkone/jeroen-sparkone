@@ -38,7 +38,7 @@ ze zijn. Trendroos-taxonomie + Novum-funnel, volledig client-side.
 ## Contact
 
 [![Website](https://img.shields.io/badge/-sparkone.nl-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://sparkone.nl)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeroenvonk/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/jeroen-vonk-)
 [![X](https://img.shields.io/badge/-@jeroenvonk__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeroenvonk_)
 [![E-mail](https://img.shields.io/badge/-jeroen@sparkone.nl-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeroen@sparkone.nl)
 
